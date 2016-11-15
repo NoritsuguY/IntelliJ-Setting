@@ -85,7 +85,7 @@
         <entry key="comtypes" value="1.1.2" />
         <entry key="conda" value="4.2.12" />
         <entry key="conda-api" value="1.1.0" />
-        <entry key="conda-build" value="2.0.9" />
+        <entry key="conda-build" value="2.0.10" />
         <entry key="conda-env" value="2.6.0" />
         <entry key="conda-manager" value="0.4.0" />
         <entry key="conda-server" value="0.14.0" />
@@ -123,7 +123,7 @@
         <entry key="decorator" value="4.0.10" />
         <entry key="dill" value="0.2.5" />
         <entry key="distribute" value="0.6.45" />
-        <entry key="distributed" value="1.14.2" />
+        <entry key="distributed" value="1.14.3" />
         <entry key="django" value="1.10.3" />
         <entry key="dnspython" value="1.14.0" />
         <entry key="docopt" value="0.6.2" />
@@ -450,7 +450,7 @@
         <entry key="s3transfer" value="0.1.9" />
         <entry key="sas7bdat" value="2.0.7" />
         <entry key="scikit-image" value="0.12.3" />
-        <entry key="scikit-learn" value="0.18" />
+        <entry key="scikit-learn" value="0.18.1" />
         <entry key="scikit-rf" value="0.14.1" />
         <entry key="scikits-image" value="0.7.1" />
         <entry key="scipy" value="0.18.1" />
@@ -1702,6 +1702,7 @@
               <option value="2.0.7" />
               <option value="2.0.9" />
               <option value="2.0.8" />
+              <option value="2.0.10" />
             </list>
           </value>
         </entry>
@@ -2146,6 +2147,7 @@
               <option value="1.13.3" />
               <option value="1.14.1" />
               <option value="1.14.2" />
+              <option value="1.14.3" />
             </list>
           </value>
         </entry>
@@ -5531,6 +5533,7 @@
               <option value="0.17" />
               <option value="0.17.1" />
               <option value="0.18" />
+              <option value="0.18.1" />
             </list>
           </value>
         </entry>
@@ -6667,6 +6670,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1479046228963" />
+    <option name="LAST_TIME_CHECKED" value="1479189706565" />
   </component>
 </application>
